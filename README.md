@@ -80,9 +80,8 @@ Open an issue or discussion to suggest features, improvements, or report bugs.
 ---
 
 ## 📬 Contact
-
-🌐 Website: zeroplat.io
-
-📧 Email: info@zeroplat.io
-
-🎥 YouTube: @zeroplatform
+- 🌐 Website: [zeroplat.io](https://zeroplat.io)  
+- 📧 Email: info@zeroplat.io  
+- 💼 LinkedIn: [Zeroplat](https://www.linkedin.com/company/zeroplat)
+- 🎥 YouTube: [@zeroplatform](https://www.youtube.com/@zeroplatform)  
+- ❓ Ask a Question: [ask.zeroplat.io](https://ask.zeroplat.io)  
