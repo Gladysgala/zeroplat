@@ -4,7 +4,7 @@
 Zeroplat is a powerful **Low-Code / No-Code development platform** that helps you design, build and deploy modern applications in minutes – without writing endless lines of code.  
 Whether you are a **startup**, **enterprise**, or **freelance developer**, Zeroplat saves you time, reduces cost, and accelerates innovation.
 
-🌐 [Official Website](https://zeroplat.io) | 🎥 [Demo Videos](https://www.youtube.com/@zeroplatform) | 📖 [Documentation](https://docs.zeroplat.io) | ❓ [Ask a Question](https://ask.zeroplat.com)
+🌐 [Official Website](https://zeroplat.io) | 🎥 [Demo Videos](https://www.youtube.com/@zeroplatform) | 📖 [Documentation](https://docs.zeroplat.io) | ❓ [Ask a Question](https://ask.zeroplat.io)
 
 ---
 
