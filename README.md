@@ -44,7 +44,7 @@ Zeroplat is built on a modern, enterprise-ready stack:
 | Feature / Platform        | Zeroplat 🚀            | Retool | Appsmith | Tooljet | Superblocks | abp.io |
 |----------------------------|------------------------|--------|----------|---------|-------------|--------|
 | **Full Source Code**       | ✅ Included            | ❌     | ❌       | ❌      | ❌          | ✅     |
-| **Backend Stack**          | .NET 9 (ABP.io)        | NodeJS | NodeJS   | NodeJS  | Python      | .NET 8 |
+| **Backend Stack**          | .NET 9 (ABP.io)        | NodeJS | NodeJS   | NodeJS  | Python      | .NET 9 |
 | **Frontend Stack**         | React 18 + TypeScript  | React  | React    | React   | React       | Angular|
 | **Self-Hosting**           | ✅ Yes                 | ✅     | ✅       | ✅      | ✅          | ✅     |
 | **Multi-Tenancy**          | ✅ Built-in            | ⚠️ Limited | ❌   | ❌      | ❌          | ✅     |
