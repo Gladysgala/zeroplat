@@ -19,6 +19,26 @@ Whether you are a **startup**, **enterprise**, or **freelance developer**, Zerop
 
 ---
 
+## 🛠 Tech Stack
+
+Zeroplat is built on a modern, enterprise-ready stack:
+
+- **Backend**
+  - [.NET 9 / ASP.NET Core](https://dotnet.microsoft.com/)  
+  - [ABP Framework](https://abp.io/) (modular architecture, multi-tenancy, OpenIddict)  
+  - [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) (MS SQL, MySQL, PostgreSQL, SQLite support)  
+  - [OpenIddict](https://documentation.openiddict.com/) (authentication & authorization)  
+  - REST & GraphQL APIs  
+
+- **Frontend**
+  - [React 18](https://react.dev/)  
+  - [TypeScript](https://www.typescriptlang.org/)  
+  - [Vite.js](https://vitejs.dev/) (fast build system)  
+  - [Material-UI](https://mui.com/) + [DevExtreme](https://js.devexpress.com/) (UI components)  
+  - State management with Zustand & context 
+
+---
+
 ## 💼 Licensing & Packages
 
 Zeroplat is offered in three packages with full source code included:
