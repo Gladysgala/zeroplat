@@ -39,6 +39,28 @@ Zeroplat is built on a modern, enterprise-ready stack:
 
 ---
 
+## 🔍 Zeroplat vs Alternatives
+
+| Feature / Platform        | Zeroplat 🚀            | Retool | Appsmith | Tooljet | Superblocks | abp.io |
+|----------------------------|------------------------|--------|----------|---------|-------------|--------|
+| **Full Source Code**       | ✅ Included            | ❌     | ❌       | ❌      | ❌          | ✅     |
+| **Backend Stack**          | .NET 9 (ABP.io)        | NodeJS | NodeJS   | NodeJS  | Python      | .NET 8 |
+| **Frontend Stack**         | React 18 + TypeScript  | React  | React    | React   | React       | Angular|
+| **Self-Hosting**           | ✅ Yes                 | ✅     | ✅       | ✅      | ✅          | ✅     |
+| **Multi-Tenancy**          | ✅ Built-in            | ⚠️ Limited | ❌   | ❌      | ❌          | ✅     |
+| **Workflow / BPM Engine**  | ✅ Built-in            | ❌     | ❌       | ❌      | ❌          | ❌     |
+| **Dynamic Localization**   | ✅ Built-in            | ❌     | ❌       | ❌      | ❌          | ⚠️ Limited |
+| **Marketplace Modules**    | ✅ Yes                 | ❌     | ❌       | ❌      | ❌          | ❌     |
+| **Licensing**              | One-time fee + source  | SaaS   | SaaS     | SaaS    | SaaS        | Commercial |
+| **Target Users**           | Dev Teams / Enterprises| Startups| Startups| Startups| Startups    | .NET Devs |
+
+
+
+✅ **Why Zeroplat?**  
+Unlike most SaaS-only platforms (Retool, Appsmith, Tooljet, Superblocks), Zeroplat provides **full source code, modular .NET backend, and enterprise-ready features** such as multi-tenancy, BPM/workflows, and marketplace extensibility.  
+
+---
+
 ## 💼 Licensing & Packages
 
 Zeroplat is offered in three packages with full source code included:
