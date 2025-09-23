@@ -1,3 +1,5 @@
+![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/visual-designer.jpg)
+
 # Zeroplat 🚀  
 **Build apps faster with the next-gen Low-Code / No-Code Platform**
 
@@ -6,7 +8,7 @@ Whether you are a **startup**, **enterprise**, or **freelance developer**, Zerop
 
 🌐 [Official Website](https://zeroplat.io) | 🎥 [Demo Videos](https://www.youtube.com/@zeroplatform) | 📖 [Documentation](https://docs.zeroplat.io) | ❓ [Ask a Question](https://ask.zeroplat.io)
 
----
+<br>
 
 ## ✨ Key Features
 - ⚡ **Visual App Builder** – drag-and-drop components to create pages, user components, dashboards, and workflows.  
@@ -17,7 +19,7 @@ Whether you are a **startup**, **enterprise**, or **freelance developer**, Zerop
 - 📊 **Custom Dashboards** – build real-time dashboards with charts, grids, and widgets.  
 - 🖥️ **.NET 9 / React 18** stack – modern, scalable, and enterprise-ready.  
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -37,7 +39,7 @@ Zeroplat is built on a modern, enterprise-ready stack:
   - [Material-UI](https://mui.com/) + [DevExtreme](https://js.devexpress.com/) (UI components)  
   - State management with Zustand & context 
 
----
+<br>
 
 ## 🔍 Zeroplat vs Alternatives
 
@@ -59,7 +61,7 @@ Zeroplat is built on a modern, enterprise-ready stack:
 ✅ **Why Zeroplat?**  
 Unlike most SaaS-only platforms (Retool, Appsmith, Tooljet, Superblocks), Zeroplat provides **full source code, modular .NET backend, and enterprise-ready features** such as multi-tenancy, BPM/workflows, and marketplace extensibility.  
 
----
+<br>
 
 ## 💼 Licensing & Packages
 
@@ -70,14 +72,14 @@ Enterprise – For larger organizations (up to 10 devs, 3+ products, private tic
 
 👉 [Check Pricing & Purchase](https://zeroplat.io/pricing/)
 
----
+<br>
 
 ## 🤝 Contributing
 
 We welcome community feedback!
 Open an issue or discussion to suggest features, improvements, or report bugs.
 
----
+<br>
 
 ## 📬 Contact
 - 🌐 Website: [zeroplat.io](https://zeroplat.io)  
