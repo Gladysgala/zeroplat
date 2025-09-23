@@ -1,4 +1,5 @@
 ![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/visual-designer.jpg)
+![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/visualdesigner2.png)
 
 # Zeroplat 🚀  
 **Build apps faster with the next-gen Low-Code / No-Code Platform**
